@@ -1,0 +1,11 @@
+Date,Time,Day,SpotID,Occupancy,Area
+2025-04-01,Morning,Monday,A1,1,Main Gate
+2025-04-01,Morning,Monday,B2,0,Library
+2025-04-01,Afternoon,Monday,C3,1,Canteen
+2025-04-01,Evening,Monday,D4,0,Admin Block
+2025-04-01,Morning,Monday,E5,1,Hostel
+2025-04-02,Morning,Tuesday,A1,0,Main Gate
+2025-04-02,Afternoon,Tuesday,B2,1,Library
+2025-04-02,Evening,Tuesday,C3,0,Canteen
+2025-04-02,Morning,Tuesday,D4,1,Admin Block
+2025-04-02,Afternoon,Tuesday,E5,0,Hostel
